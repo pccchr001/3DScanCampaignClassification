@@ -1,6 +1,6 @@
 # 3D Scan Campaign Classification with Representative Training Scan Selection
 
-This repository hosts the framework written for the master's thesis titled "3D Scan Campaign Classification with Representative Training Scan Selection". The code is intended as a reference for the thesis. 
+This repository hosts the framework written for the master's thesis titled "3D Scan Campaign Classification with Representative Training Scan Selection". The code is intended as a reference for the implementation sections of the thesis.
 
 A summary of important files is given below:
 * __CloudFex.cpp__ - Feature extraction from point neighbourhoods and supervoxel segments.
